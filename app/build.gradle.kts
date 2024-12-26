@@ -21,6 +21,10 @@ if (officialBuild) {
 android {
     namespace = "com.tsng.hidemyapplist"
 
+    defaultConfig {
+        applicationId = "com.tsng.pzyhrx.hma"
+    }
+
     buildFeatures {
         buildConfig = true
         viewBinding = true
