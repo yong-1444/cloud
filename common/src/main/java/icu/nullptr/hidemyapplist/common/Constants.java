@@ -4,7 +4,7 @@ import java.util.Set;
 
 public class Constants {
 
-    public static final String APP_PACKAGE_NAME = "com.deepseek.chat";
+    public static final String APP_PACKAGE_NAME = "com.deekww.chat";
 
     public static final String PROVIDER_AUTHORITY = "com.tsng.hidemyapplist.ServiceProvider";
     public static final String GMS_PACKAGE_NAME = "com.google.android.gms";
